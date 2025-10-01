@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "會員登入";
+}
+
+<h2>會員登入</h2>
+
+<form method="post" action="@Url.Action("Login")">
+    <p>帳號:<input type="email" placeholder="請輸入信箱" id="email" name="email" /></p>
+    <p>密碼:<input type="password" placeholder="請輸入密碼" id="pwd" name="pwd" /></p>
+    <p><input type="submit" class="btn btn-danger" value="會員登入" /></p>
+    @Html.ActionLink("忘記密碼", "ForgetPwd", "Home")
+    <p>@ViewBag.Message</p>
+</form>

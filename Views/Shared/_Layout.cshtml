@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - ESG 永續生活方舟</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+        <div class="container">
+            @Html.ActionLink("ESG 永續生活方舟", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="切換導覽" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li>@Html.ActionLink("會員", "Index2", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("會員管理", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("登入", "Login", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("註冊", "Register", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("ESG及功能介紹", "Index2", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navCarbonDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">生活碳足跡計算</a>
+						<ul class="dropdown-menu" aria-labelledby="navCarbonDropdown">
+							<li>@Html.ActionLink("生活", "Life", "Home", new { area = "" }, new { @class = "dropdown-item" })</li>
+						<li>@Html.ActionLink("飲食", "Food", "Home", new { area = "" }, new { @class = "dropdown-item" })</li>
+							<li>@Html.ActionLink("交通", "Traffic", "Home", new { area = "" }, new { @class = "dropdown-item" })</li>
+							<li>@Html.ActionLink("能源", "Energy", "Home", new { area = "" }, new { @class = "dropdown-item" })</li>
+						</ul>
+					</li>
+                    <li>@Html.ActionLink("碳足跡追蹤功能", "Index2", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("個人化行為建議", "Index2", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("遊戲化機制", "Index2", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - ESG關心您</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

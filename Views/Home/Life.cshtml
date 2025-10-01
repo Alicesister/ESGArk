@@ -1,0 +1,230 @@
+﻿@{
+    ViewBag.Title = "生活碳足跡計算機（Kg CO₂e）—生活";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    :root{--bg:#ffffff;--panel:#ffffff;--muted:#6b7280;--border:#e5e7eb;--accent:#16a34a}
+    *{box-sizing:border-box}
+    body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,'Noto Sans TC',sans-serif;background:var(--bg);color:#111827;margin:0}
+    header{position:static;background:#ffffff;border-bottom:1px solid var(--border)}
+    .container{max-width:1200px;margin:0 auto;padding:8px}
+    h1{margin:0 0 4px 0;font-weight:800;font-size:20px}
+    .sub{color:var(--muted);font-size:18px}
+    nav a{color:#111827;text-decoration:none;margin-right:8px}
+    .grid{display:grid;grid-template-columns:1.25fr .75fr;gap:10px}
+    @@media(max-width:1000px){.grid{grid-template-columns:1fr}}
+    .panel{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:8px;margin:8px 0}
+    .toolbar{display:grid;grid-template-columns:1fr 1fr auto auto;gap:6px;align-items:center}
+    input[type=text],input[type=url],input[type=number],select{padding:8px 8px;border-radius:10px;border:1px solid var(--border);background:#ffffff;color:#111827;width:100%}
+    .btn{border:1px solid var(--border);background:#ffffff;color:#111827;padding:8px 12px;border-radius:10px;cursor:pointer}
+    .btn.primary{background:linear-gradient(90deg,#22c55e,#16a34a);border:0;color:#ffffff}
+    .cols-3{display:grid;grid-template-columns:1fr;gap:10px}
+    .card{background:#ffffff;border:1px solid var(--border);border-radius:12px;padding:10px}
+    .card h3{margin:0 0 6px 0;font-size:22px}
+    .row{display:grid;grid-template-columns:minmax(120px,1.2fr) 100px 90px 110px 90px;gap:6px;align-items:center;margin:3px 0}
+    .row input{width:100%}
+    .row > div:first-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .row .u{color:#6b7280;font-size:18px}
+    .small{font-size:18px;color:#6b7280}
+    .val{font-size:42px;font-weight:800;color:#065f46}
+    .legend{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
+    .tag{padding:4px 6px;border-radius:999px;background:#ffffff;border:1px solid var(--border);font-size:18px}
+    footer{color:#6b7280;font-size:12px;border-top:1px solid var(--border);margin-top:10px;padding-top:8px}
+  </style>
+  <style>
+    /* Compact for short viewports (wider safety margin) */
+    @@media (max-height: 900px){
+      .container{padding:6px}
+      .panel{padding:6px;margin:6px 0}
+      h1{margin-bottom:2px}
+      .small{font-size:12px}
+      .val{font-size:28px}
+      .legend{gap:3px;margin-top:3px}
+      .tag{padding:3px 5px;font-size:12px}
+      .row{margin:2px 0;grid-template-columns:minmax(115px,1.2fr) 95px 85px 105px 85px}
+      #pie{height:220px !important}
+      footer{display:none}
+    }
+  </style>
+  <style>
+    .nav{display:flex;gap:8px;margin-top:8px}
+    .nav a{padding:6px 10px;border-radius:999px;background:#ffffff;border:1px solid var(--border);font-size:18px}
+    .nav a:hover{border-color:var(--accent);color:#065f46}
+  </style>
+</style>
+
+<header>
+    <div class="container">
+      <h1>生活碳足跡計算機 <span style="color:var(--accent)">Kg CO₂e</span></h1>
+      <div class="sub">本頁分群：生活民生、電子產品。支援：自動抓取係數、手動編輯、JSON 匯入/匯出、圓餅圖與「需要種樹」估算。</div>
+      <nav class="nav">
+          <a href="@Url.Action("Life", "Home")">生活</a>
+          <a href="@Url.Action("Food", "Home")">飲食</a>
+          <a href="@Url.Action("Traffic", "Home")">交通</a>
+          <a href="@Url.Action("Energy", "Home")">能源</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container grid">
+    <section>
+      <div class="panel">
+        <div class="cols-3" id="forms"></div>
+      </div>
+    </section>
+
+    <aside>
+      <div class="panel">
+        <div class="val" id="total">0.00</div>
+        <div class="small">本月碳排合計（Kg CO₂e）</div>
+      </div>
+      <div class="panel">
+        <canvas id="pie" height="220"></canvas>
+        <div class="legend" id="legend"></div>
+        <div class="small">估算：每棵樹每月吸收約 0.9 Kg CO₂ → 需要 <span id="trees">0</span> 棵。</div>
+      </div>
+      <div class="panel">
+        <div class="small">目前資料集來源：<span id="srcName">預設（可覆蓋）</span></div>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="container">註：預設係數主要整理自臺灣常見公開資料（電力、水、運輸）與示例值；實際以最新公告為準。</footer>
+
+@section scripts {
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script>
+// ======== 分群與預設品項（仿國泰介面） ========
+const GROUPS = [
+  { key:'life', name:'生活民生', items:[
+    {name:'洗衣粉', unit:'公斤', ef:1.34},
+    {name:'沐浴乳', unit:'公升', ef:1.8},
+    {name:'護髮霜(150ml)', unit:'瓶', ef:1.54},
+    {name:'大捲筒衛生紙(800g)', unit:'捲', ef:1.8},
+    {name:'抽取式衛生紙(100抽)', unit:'包', ef:0.4}
+  ]},
+  { key:'elec', name:'電子產品', items:[
+    {name:'筆記型電腦(11.6吋)', unit:'台', ef:81},
+    {name:'無線滑鼠', unit:'個', ef:3.76},
+    {name:'電腦電源線(含插頭端)', unit:'條', ef:0.68}
+  ]}
+];
+
+// ======== UI 建立 ========
+const forms = document.getElementById('forms');
+let chart;
+
+function render(){
+  forms.innerHTML = '';
+  GROUPS.forEach((g,gi)=>{
+    const card = document.createElement('div'); card.className='card';
+    card.innerHTML = `<h3>${g.name}</h3>`;
+    g.items.forEach((it,ii)=>{
+      const row = document.createElement('div'); row.className='row';
+      row.innerHTML = `
+        <div>${it.name}</div>
+        <div><input type="number" min="0" step="0.01" data-gi="${gi}" data-ii="${ii}" data-k="qty" placeholder="0"></div>
+        <div class="u">${it.unit}</div>
+        <div><input type="number" step="0.0001" value="${it.ef??''}" data-gi="${gi}" data-ii="${ii}" data-k="ef" placeholder="Kg CO₂e/單位"></div>
+        <div class="u" data-sub>Kg CO₂e</div>`;
+      card.appendChild(row);
+    });
+    forms.appendChild(card);
+  });
+  bind(); calc();
+}
+
+function bind(){
+  forms.oninput = (e)=>{
+    const gi = +e.target.getAttribute('data-gi');
+    const ii = +e.target.getAttribute('data-ii');
+    const k = e.target.getAttribute('data-k');
+    if(Number.isFinite(gi) && Number.isFinite(ii)){
+      let v = e.target.value;
+      if(k==='ef' || k==='qty') v = v===''? null : Number(v);
+      GROUPS[gi].items[ii][k] = v;
+      calc();
+    }
+  };
+}
+
+function calc(){
+  // 小計 & 類別合計
+  const sums = GROUPS.map(g=>0);
+  forms.querySelectorAll('.row').forEach(row=>{
+    const gi = +row.querySelector('input[data-gi]')?.getAttribute('data-gi');
+    const ii = +row.querySelector('input[data-ii]')?.getAttribute('data-ii');
+    const item = GROUPS[gi].items[ii];
+    const subEl = row.querySelector('[data-sub]');
+    const qty = Number(item.qty||0), ef = item.ef==null? null : Number(item.ef);
+    if(ef!=null && qty>0){ const sub = qty*ef; subEl.textContent=sub.toFixed(2); sums[gi]+=sub; }
+    else subEl.textContent='Kg CO₂e';
+  });
+  const total = sums.reduce((a,b)=>a+b,0);
+  document.getElementById('total').textContent = total.toFixed(2);
+  document.getElementById('trees').textContent = Math.ceil(total/0.9);
+  // 圖
+  const labels = GROUPS.map(g=>g.name);
+  if(chart) chart.destroy();
+  chart = new Chart(document.getElementById('pie'), {
+    type:'pie', data:{ labels, datasets:[{ data:sums, backgroundColor:['#34d399','#60a5fa','#f472b6','#fbbf24','#a78bfa','#fb7185'] }] }, options:{ plugins:{ legend:{ display:false } } }
+  });
+  document.getElementById('legend').innerHTML = labels.map((l,i)=>`<span class="tag">${l}: ${sums[i].toFixed(2)} Kg CO₂e</span>`).join('');
+}
+
+// ======== 後端載入係數（以 API 提供） ========
+async function loadFactorsFromApi(){
+  const endpoints = [
+    '/api/factors?groups=life,elec',
+    '/api/factors?group=life&group=elec',
+    '/api/factors/life,elec'
+  ];
+  function normalizeName(s){
+    return String(s||'').replace(/[\s()（）·・‧、，,。:：/\\_-]/g,'').toLowerCase();
+  }
+  function flatten(data){
+    if(Array.isArray(data)){
+      // Case 1: direct array of {name, unit, ef}
+      if(data.length && data[0] && 'name' in data[0]) return data;
+      // Case 2: [{group:'life', items:[...]}]
+      const out=[]; data.forEach(x=>{ if(x && Array.isArray(x.items)) out.push(...x.items); });
+      return out;
+    }
+    // Case 3: {life:[...], elec:[...]}
+    const out=[]; for(const k in (data||{})){ if(Array.isArray(data[k])) out.push(...data[k]); }
+    return out;
+  }
+  for(const url of endpoints){
+    try{
+      const res = await fetch(url, { headers:{ 'Accept':'application/json' } });
+      if(!res.ok) throw new Error('HTTP '+res.status);
+      const json = await res.json();
+      const arr = flatten(json);
+      if(!Array.isArray(arr) || !arr.length) continue;
+      // 寬鬆名稱比對（雙向包含 + 正規化）
+      let matched=0;
+      arr.forEach(x=>{
+        for(const g of GROUPS){
+          const nx = normalizeName(x.name);
+          const hit = g.items.find(i=>{
+            const ni = normalizeName(i.name);
+            return ni===nx || ni.includes(nx) || nx.includes(ni);
+          });
+          if(hit){ if(x.unit) hit.unit = x.unit; if(x.ef!=null) hit.ef = x.ef; matched++; }
+        }
+      });
+      document.getElementById('srcName').textContent = matched>0? '後端資料庫' : '後端已載入（無對應名稱）';
+      render();
+      return;
+    }catch(e){ /* try next endpoint */ }
+  }
+  document.getElementById('srcName').textContent = '後端載入失敗';
+}
+
+render();
+loadFactorsFromApi();
+</script>
+}
+
+

@@ -1,0 +1,360 @@
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\ESGArk.dll.config
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\ESGArk.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\ESGArk.pdb
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\csc.exe
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\csc.exe.config
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\csc.rsp
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\csi.exe
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\csi.exe.config
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\csi.rsp
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.AppContext.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Console.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.IO.Compression.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Net.Http.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.ValueTuple.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\vbc.exe
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\vbc.exe.config
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\vbc.rsp
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\VBCSCompiler.exe
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\Antlr3.Runtime.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\EntityFramework.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\EntityFramework.SqlServer.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\Newtonsoft.Json.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.Helpers.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.Mvc.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.Optimization.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.Razor.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.WebPages.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.WebPages.Razor.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\WebGrease.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\EntityFramework.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\EntityFramework.SqlServer.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.Helpers.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.Mvc.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.Optimization.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.Razor.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.WebPages.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\System.Web.WebPages.Razor.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\Newtonsoft.Json.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\Antlr3.Runtime.pdb
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\obj\Debug\ESGArk.csproj.AssemblyReference.cache
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\obj\Debug\ESGArk.csproj.CoreCompileInputs.cache
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\obj\Debug\ESGArk.csproj.Up2Date
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\obj\Debug\ESGArk.dll
+C:\Users\ak840\Downloads\B1222151_1 資料庫連接 -\B1222151_1 資料庫連接 -\obj\Debug\ESGArk.pdb
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\ESGArk.dll.config
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\ESGArk.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\ESGArk.pdb
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\csc.exe
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\csc.exe.config
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\csc.rsp
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\csi.exe
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\csi.exe.config
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\csi.rsp
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.AppContext.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Console.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.IO.Compression.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Net.Http.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.ValueTuple.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\vbc.exe
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\vbc.exe.config
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\vbc.rsp
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\VBCSCompiler.exe
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\Antlr3.Runtime.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\EntityFramework.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\EntityFramework.SqlServer.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\Newtonsoft.Json.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.Helpers.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.Mvc.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.Optimization.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.Razor.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.WebPages.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.WebPages.Razor.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\WebGrease.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\EntityFramework.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\EntityFramework.SqlServer.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.Helpers.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.Mvc.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.Optimization.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.Razor.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.WebPages.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\System.Web.WebPages.Razor.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\Newtonsoft.Json.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\Antlr3.Runtime.pdb
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\obj\Debug\ESGArk.csproj.AssemblyReference.cache
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\obj\Debug\ESGArk.csproj.CoreCompileInputs.cache
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\obj\Debug\ESGArk.csproj.Up2Date
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\obj\Debug\ESGArk.dll
+C:\Users\ak840\OneDrive\專題\ESG永續方舟_0513\obj\Debug\ESGArk.pdb
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\ESGArk.dll.config
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\ESGArk.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\ESGArk.pdb
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\csc.exe
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\csc.exe.config
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\csc.rsp
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\csi.exe
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\csi.exe.config
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\csi.rsp
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.AppContext.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Console.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.IO.Compression.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Net.Http.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.ValueTuple.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\vbc.exe
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\vbc.exe.config
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\vbc.rsp
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\VBCSCompiler.exe
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\Antlr3.Runtime.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\EntityFramework.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\EntityFramework.SqlServer.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\Newtonsoft.Json.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.Helpers.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.Mvc.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.Optimization.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.Razor.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.WebPages.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.WebPages.Razor.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\WebGrease.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\EntityFramework.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\EntityFramework.SqlServer.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.Helpers.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.Mvc.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.Optimization.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.Razor.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.WebPages.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\System.Web.WebPages.Razor.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\Newtonsoft.Json.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\Antlr3.Runtime.pdb
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\obj\Debug\ESGArk.csproj.AssemblyReference.cache
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\obj\Debug\ESGArk.csproj.CoreCompileInputs.cache
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\obj\Debug\ESGArk.csproj.Up2Date
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\obj\Debug\ESGArk.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0513 - 複製\obj\Debug\ESGArk.pdb
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\ESGArk.dll.config
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\ESGArk.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\ESGArk.pdb
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\csc.exe
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\csc.exe.config
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\csc.rsp
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\csi.exe
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\csi.exe.config
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\csi.rsp
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.AppContext.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Console.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.IO.Compression.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Net.Http.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.ValueTuple.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\vbc.exe
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\vbc.exe.config
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\vbc.rsp
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\VBCSCompiler.exe
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\Antlr3.Runtime.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\EntityFramework.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\EntityFramework.SqlServer.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\Newtonsoft.Json.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.Helpers.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.Mvc.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.Optimization.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.Razor.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.WebPages.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.WebPages.Razor.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\WebGrease.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\EntityFramework.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\EntityFramework.SqlServer.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.Helpers.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.Mvc.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.Optimization.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.Razor.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.WebPages.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\System.Web.WebPages.Razor.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\Newtonsoft.Json.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\Antlr3.Runtime.pdb
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\obj\Debug\ESGArk.csproj.AssemblyReference.cache
+C:\Users\ak840\Desktop\ESG永續方舟_0925\obj\Debug\ESGArk.csproj.CoreCompileInputs.cache
+C:\Users\ak840\Desktop\ESG永續方舟_0925\obj\Debug\ESGArk.csproj.Up2Date
+C:\Users\ak840\Desktop\ESG永續方舟_0925\obj\Debug\ESGArk.dll
+C:\Users\ak840\Desktop\ESG永續方舟_0925\obj\Debug\ESGArk.pdb

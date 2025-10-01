@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ESGArk.Models.Member>
+
+@{
+    ViewBag.Title = "Index2";
+}
+<h2>會員管理</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pwd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedAt)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pwd)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedAt)
+        </td>
+        <td>
+            <a href="@Url.Action("Edit")?fName=@item.Name" class="btn btn-warning">
+                編輯
+            </a>
+            <a href="@Url.Action("Delete")?fName=@item.Name" class="btn btn-danger"
+               onclick="return confirm('確定要刪除 @item.Name 會員嗎?');">
+                刪除
+            </a>
+        </td>
+    </tr>
+}
+
+</table>

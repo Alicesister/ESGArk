@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|c:\\users\\ak840\\downloads\\b1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\b1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\controllers\\carboncalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:controllers\\carboncalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/140.137.61.135/B1222151/sa/SqlTable/dbo.CarbonCalRecord.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\carboncalrecords\\lifefootprint.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\carboncalrecords\\lifefootprint.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\carboncalrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\carboncalrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\models\\carboncalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:models\\carboncalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\models\\b12222151.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:models\\b12222151.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\home\\carboncalrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\home\\carboncalrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\shared\\_layoutmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\shared\\_layoutmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\home\\esgintroduce.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\home\\esgintroduce.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\views\\home\\forgetpwd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:views\\home\\forgetpwd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{477A699D-AA43-4BE4-99B9-5D23CC2665DA}|B1222151_1.csproj|solutionrelative:web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alice\\Desktop\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\B1222151.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.CarbonCalRecord.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/140.137.61.135/B1222151/sa/SqlTable/dbo.CarbonCalRecord.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/140.137.61.135/B1222151/sa/SqlTable/dbo.CarbonCalRecord.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-08T06:00:23.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarbonCalRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Controllers\\CarbonCalRecordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarbonCalRecordsController.cs",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Controllers\\CarbonCalRecordsController.cs",
+              "RelativeToolTip": "Controllers\\CarbonCalRecordsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:02:35.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:47:25.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T12:43:25.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:30:51.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LifeFootprint.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\CarbonCalRecords\\LifeFootprint.cshtml",
+              "RelativeDocumentMoniker": "Views\\CarbonCalRecords\\LifeFootprint.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\CarbonCalRecords\\LifeFootprint.cshtml",
+              "RelativeToolTip": "Views\\CarbonCalRecords\\LifeFootprint.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T14:01:36.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\CarbonCalRecords\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CarbonCalRecords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\CarbonCalRecords\\Index.cshtml",
+              "RelativeToolTip": "Views\\CarbonCalRecords\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T16:01:10.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarbonCalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\CarbonCalRecord.cs",
+              "RelativeDocumentMoniker": "Models\\CarbonCalRecord.cs",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\CarbonCalRecord.cs",
+              "RelativeToolTip": "Models\\CarbonCalRecord.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:36:54.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "B12222151.cs",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\B12222151.cs",
+              "RelativeDocumentMoniker": "Models\\B12222151.cs",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\B12222151.cs",
+              "RelativeToolTip": "Models\\B12222151.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:04:49.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T13:12:22.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarbonCalRecord.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\CarbonCalRecord.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CarbonCalRecord.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\CarbonCalRecord.cshtml",
+              "RelativeToolTip": "Views\\Home\\CarbonCalRecord.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T14:01:45.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T08:33:33.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T17:18:29.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LayoutMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Shared\\_LayoutMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutMember.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Shared\\_LayoutMember.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutMember.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T17:31:55.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:23:22.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T16:24:28.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T08:50:44.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ESGintroduce.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\ESGintroduce.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ESGintroduce.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\ESGintroduce.cshtml",
+              "RelativeToolTip": "Views\\Home\\ESGintroduce.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T14:22:47.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgetPwd.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\ForgetPwd.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ForgetPwd.cshtml",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Views\\Home\\ForgetPwd.cshtml",
+              "RelativeToolTip": "Views\\Home\\ForgetPwd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T15:11:56.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-16T09:06:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Web.Release.config",
+              "RelativeDocumentMoniker": "Web.Release.config",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Web.Release.config",
+              "RelativeToolTip": "Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-29T13:23:03.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Web.Debug.config",
+              "ToolTip": "C:\\Users\\ak840\\Downloads\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Web.Debug.config",
+              "RelativeToolTip": "Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-29T13:23:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "B1222151.edmx",
+              "DocumentMoniker": "C:\\Users\\Alice\\Desktop\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\B1222151.edmx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Alice\\Desktop\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\B1222151.edmx",
+              "ToolTip": "C:\\Users\\Alice\\Desktop\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\B1222151.edmx",
+              "RelativeToolTip": "..\\..\\..\\..\\Alice\\Desktop\\B1222151_1 \u8CC7\u6599\u5EAB\u9023\u63A5 -\\Models\\B1222151.edmx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-16T15:29:24.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
