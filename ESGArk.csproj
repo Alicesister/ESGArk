@@ -238,7 +238,7 @@
     <Content Include="Views\Home\Food.cshtml" />
     <Content Include="Views\CarbonCalRecords\Index.cshtml" />
     <Content Include="Views\CarbonCalRecords\LifeFootprint.cshtml" />
-    <Content Include="Views\Home\Index2.cshtml" />
+    <Content Include="Views\Home\Home.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
